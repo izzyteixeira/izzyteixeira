@@ -1,7 +1,7 @@
 Oi there! My name is Izzy Teixeira 💫
 ========================================================================================================================================
 
-📍  I am a Front-End Developer based in Salvador, Brazil. <br>
+📍  I am a Front-End Developer based in Brazil. <br>
 🖥️  Check out my <a href='https://izzyteixeira.github.io/izzys-portfolio' target="_blank">Portfolio</a>! <br>
 🔧  Learning React <br>
 💼  Looking to collaborate with your company!
